@@ -108,6 +108,31 @@ D25 = Pin(25)
 D26 = Pin(26)
 D27 = Pin(27)
 
+D28 = Pin(28)
+D29 = Pin9)
+D30 = Pi30)
+D31 = Pin(31)
+D32 = Pin(32)
+D33 = Pin(33)
+D34 = Pin(34)
+D35 = Pin(35)
+D36 = Pin(36)
+D37 = Pin(37)
+D38 = Pin(38)
+D39 = Pin(39)
+D40 = Pin(40)
+D41 = Pin(41)
+D42 = Pin(42)
+D43 = Pin(43)
+D44 = Pin(44)
+D45 = Pin(45)
+
+
+
+
+
+
+
 # ordered as spiId, sckId, mosiId, misoId
 spiPorts = ((0, SCLK, MOSI, MISO), (1, SCLK_1, MOSI_1, MISO_1))
 
